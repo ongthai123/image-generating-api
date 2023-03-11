@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Generating APIs", "Image Generating APIs.csproj", "{BE5EEF4B-9DEB-44B8-AF9A-EF326E3D5CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE5EEF4B-9DEB-44B8-AF9A-EF326E3D5CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5EEF4B-9DEB-44B8-AF9A-EF326E3D5CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5EEF4B-9DEB-44B8-AF9A-EF326E3D5CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5EEF4B-9DEB-44B8-AF9A-EF326E3D5CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57CF21FA-DF6B-42BA-90FA-CF29123FCF36}
+	EndGlobalSection
+EndGlobal
