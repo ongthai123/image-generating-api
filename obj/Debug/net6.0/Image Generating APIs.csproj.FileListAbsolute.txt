@@ -1,0 +1,45 @@
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\appsettings.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Image Generating APIs.exe
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Image Generating APIs.deps.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Image Generating APIs.runtimeconfig.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Image Generating APIs.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Image Generating APIs.pdb
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\DnsClient.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Snappier.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.csproj.AssemblyReference.cache
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.AssemblyInfoInputs.cache
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.AssemblyInfo.cs
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.csproj.CoreCompileInputs.cache
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets\msbuild.Image Generating APIs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.Image Generating APIs.props
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Image Generating APIs.props
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Image Generating APIs.props
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\scopedcss\bundle\Image Generating APIs.styles.css
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.csproj.CopyComplete
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\refint\Image Generating APIs.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.pdb
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.genruntimeconfig.cache
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\ref\Image Generating APIs.dll

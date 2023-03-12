@@ -1,3 +1,7 @@
+using Image_Generating_APIs.Interfaces;
+using Image_Generating_APIs.Models;
+using Image_Generating_APIs.Services;
+
 namespace Image_Generating_APIs
 {
     public class Program
@@ -12,6 +16,10 @@ namespace Image_Generating_APIs
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
+
+            builder.Services.AddTransient<IMongoDBService, MongoDBService>();
 
             var app = builder.Build();
 
