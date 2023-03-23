@@ -21,7 +21,7 @@ namespace Image_Generating_APIs.Services
 
         public async Task<List<Post>> GetPostsAsync() => await _postCollection.Find(x => true).ToListAsync();
 
-        public async Task Create(Post post)
+        public async Task CreatePostAsync(Post post)
         {
             await _postCollection.InsertOneAsync(post);
         }

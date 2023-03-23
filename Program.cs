@@ -8,6 +8,8 @@ namespace Image_Generating_APIs
     {
         public static void Main(string[] args)
         {
+            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -20,6 +22,14 @@ namespace Image_Generating_APIs
             builder.Services.Configure<MongoDBSettings>(builder.Configuration.GetSection("MongoDB"));
 
             builder.Services.AddTransient<IMongoDBService, MongoDBService>();
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins, policy =>
+                {
+                    policy.WithOrigins("http://127.0.0.1:5173/");
+                });
+            });
 
             var app = builder.Build();
 
@@ -34,6 +44,7 @@ namespace Image_Generating_APIs
 
             app.UseAuthorization();
 
+            app.UseCors();
 
             app.MapControllers();
 

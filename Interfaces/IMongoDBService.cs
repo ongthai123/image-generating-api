@@ -5,6 +5,6 @@ namespace Image_Generating_APIs.Interfaces
     public interface IMongoDBService
     {
         Task<List<Post>> GetPostsAsync();
-        Task Create(Post post);
+        Task CreatePostAsync(Post post);
     }
 }

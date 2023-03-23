@@ -43,3 +43,4 @@ C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating 
 C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.pdb
 C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\Image Generating APIs.genruntimeconfig.cache
 C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\obj\Debug\net6.0\ref\Image Generating APIs.dll
+C:\Users\JerryOng\OneDrive - CREDITWORKS GROUP LIMITED\Desktop\Image Generating APIs\bin\Debug\net6.0\Newtonsoft.Json.dll
