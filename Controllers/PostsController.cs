@@ -22,7 +22,10 @@ namespace Image_Generating_APIs.Controllers
         }
 
         [HttpGet]
-        public async Task<List<Post>> Get() => await _mongoDBService.GetPostsAsync();
+        public async Task<IActionResult> Get()
+        {
+            return Ok(await _mongoDBService.GetPostsAsync());
+        }
 
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Post post)
